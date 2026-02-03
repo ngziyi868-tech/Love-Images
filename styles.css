@@ -1,1 +1,10 @@
-Images
+    body {
+      background: #ffe6f2;
+      font-family: Arial, sans-serif;
+    }
+
+    h1 {
+      color: #ff2d78;
+      margin-bottom: 20px;
+    }
+
